@@ -18,7 +18,7 @@
 ✔️ APIs & APIs REST  
 
 ### 📖 Tecnologias que estou estudando  
-📌 **Banco de Dados**: MongoDB  
+📌 **Banco de Dados**: MongoDB, mySQL  
 📌 **Modelagem**: UML  
 📌 **Persistência**: JDBC, Hibernate  
 📌 **Interface Gráfica**: JavaFX  
