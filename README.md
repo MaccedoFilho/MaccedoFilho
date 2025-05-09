@@ -41,7 +41,6 @@
 ✔️ CI/CD básico  
 
 ### 📚 Tecnologias em estudo  
-- MongoDB (avançando)  
 - MySQL  
 - UML  
 - JDBC  
