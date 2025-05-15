@@ -10,6 +10,7 @@ Desenvolvedor de software com especialização em backend utilizando Java e Spri
 | ---------------------- | ----- |
 | Java                   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 | Spring Framework       | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| Angular                | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
 
 | Bancos de Dados | Badge |
 | --------------- | ----- |
@@ -18,9 +19,10 @@ Desenvolvedor de software com especialização em backend utilizando Java e Spri
 | PostgreSQL      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | MongoDB         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-| Containerização | Badge |
-| --------------- | ----- |
-| Docker          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| Containerização & Ferramentas API | Badge |
+| --------------------------------- | ----- |
+| Docker                            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| Postman                           | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
@@ -36,7 +38,6 @@ Experiência e familiaridade com um espectro adicional de tecnologias que comple
 | TypeScript               | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | React                    | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 | Next.js                  | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
-| Angular                  | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
 
 | Backend, Dados & Mensageria | Badge |
 | --------------------------- | ----- |
