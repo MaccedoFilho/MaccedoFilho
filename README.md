@@ -1,64 +1,35 @@
 # Ricardo Macedo Filho
 
-Desenvolvedor de software com especialização em backend utilizando Java e Spring Framework. Possuo experiência com diversos bancos de dados relacionais e NoSQL, incluindo Oracle, MySQL, PostgreSQL e MongoDB, além de prática em containerização de aplicações com Docker. Meu compromisso é com a entrega de soluções robustas e a aplicação de boas práticas de desenvolvimento.
+Desenvolvedor de software com foco em **backend Java com Spring**, atuando na construção de APIs escaláveis, integração com bancos de dados relacionais/NoSQL e containerização de aplicações com Docker. Também possuo experiência com **Python (Flask)** e tecnologias modernas de frontend como **React e TypeScript**.
 
 ---
 
-## 🛠️ Tecnologias Principais
+## 🚀 Principais Tecnologias
 
-| Linguagem & Framework | Badge |
-| ---------------------- | ----- |
-| Java                   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| Spring Framework       | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| Angular                | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
-
-| Bancos de Dados | Badge |
-| --------------- | ----- |
-| Oracle DB       | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
-| MySQL           | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| PostgreSQL      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| MongoDB         | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-| Containerização & Ferramentas API | Badge |
-| --------------------------------- | ----- |
-| Docker                            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| Postman                           | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| Stack | Tecnologias |
+| ----- | ----------- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B2C3?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-## 💡 Outras Tecnologias e Ferramentas
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maccedofilho&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&custom_title=Stats%20do%20Macedo" alt="Estatísticas do GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maccedofilho&layout=compact&theme=tokyonight&langs_count=8&title=Most%20Used%20Languages" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 
-Experiência e familiaridade com um espectro adicional de tecnologias que complementam meu desenvolvimento:
-
-| Desenvolvimento Frontend | Badge |
-| ------------------------ | ----- |
-| HTML5                    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3                     | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| JavaScript               | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| TypeScript               | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| React                    | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| Next.js                  | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
-
-| Backend, Dados & Mensageria | Badge |
-| --------------------------- | ----- |
-| Hibernate                   | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
-| Apache Kafka                | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
-
-| Linguagens Adicionais | Badge |
-| --------------------- | ----- |
-| C                     | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-
-| Práticas de DevOps | Badge |
-| ------------------ | ----- |
-| CI/CD              | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Practices-brightgreen?style=for-the-badge) |
 
 ---
 
 ## 📫 Contato
 
-| Plataforma | Detalhes |
-| ---------- | -------- |
-| LinkedIn   | [ricardomacedofilho](https://www.linkedin.com/in/ricardomacedofilho/) |
-| Email      | ricardomacedodev@gmail.com |
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardomacedofilho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardomacedofilho/)  
+[![Email](https://img.shields.io/badge/E--mail-ricardomacedodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomacedodev@gmail.com)
