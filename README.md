@@ -4,7 +4,7 @@ Desenvolvedor de software com foco em **backend Java com Spring**, atuando na co
 
 ---
 
-## 🚀 Principais Tecnologias
+## Principais Tecnologias
 
 | Stack | Tecnologias |
 | ----- | ----------- |
