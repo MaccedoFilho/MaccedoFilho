@@ -1,11 +1,3 @@
-# Ricardo Macedo Filho
-
-Desenvolvedor de software com foco em **backend Java com Spring**, atuando na construção de APIs escaláveis, integração com bancos de dados relacionais/NoSQL e containerização de aplicações com Docker. Também possuo experiência com **Python (Flask)** e tecnologias modernas de frontend como **React e TypeScript**.
-
----
-
-## Principais Tecnologias
-
 | Stack | Tecnologias |
 | ----- | ----------- |
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
